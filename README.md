@@ -14,4 +14,4 @@
 - Supporting multiple email providers beyond Gmail.
 ---
 *Note: This repository contains the full technical documentation and system architecture for the Tarasd project.*
-[Download Full Project Documentation (PDF)](Tarasd%20Report.pdf)
+[Download Full Project Documentation (PDF)](./Tarasd_Project_Report.pdf)
